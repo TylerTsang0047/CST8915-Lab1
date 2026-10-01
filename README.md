@@ -28,5 +28,11 @@ This service is responsible for providing the website with what options are avai
 This service is responsible for displaying the website for the user. This service uses uve.js as its language and it is used because it is a dynamic language that is able to update the website in real time. In addition to this, Vue.js is built to be used for small scale projects so it is a good choice for this. This fits into the microservice architecture by providing the user with the interface of the website and displaying the information to the user as well as letting the user interact with the system thorough selecting their items, quantity and sending their order in. This interacts with the other services by getting the information to display from the product services and then send the information to the order service to be processed.
 
 
+---
+
+## Resources
+
+- https://bitfieldconsulting.com/posts/why-rust
+- https://www.techmagic.co/blog/benefits-of-vuejs
 
 
